@@ -1,0 +1,1 @@
+created write1.txt file
